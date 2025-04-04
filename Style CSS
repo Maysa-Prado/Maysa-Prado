@@ -1,0 +1,11 @@
+body {
+    background-color: #4E3D42;
+}
+p {
+    font-size: 25px;
+    background-color: #c9d5b5;
+    color: #999999;
+}
+img { https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fsimpan-pantas--680888037440191026%2F&psig=AOvVaw3d0F2EikBoYJfKR22PCDip&ust=1743859912880000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDWicq-vowDFQAAAAAdAAAAABAE
+    width: 350px;
+}
