@@ -1,11 +1,30 @@
 body {
-    background-color: #4E3D42;
+    background-color: #e7b447;
 }
 p {
-    font-size: 25px;
-    background-color: #c9d5b5;
-    color: #999999;
+    font-size: 30px;
+    background-color: #ce7a1a;
+    color: #bb8716;
 }
-img { 
+img {
     width: 350px;
+}
+.logo {
+    width: 50px
+}
+menu{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    background-color: lightcyan;
+}
+.menu a{
+   text-decoration: none;
+   text-decoration: ☐ black;
+   font-size: 25px;
+   font-weight: bold;
+   line-height: 45px;
+}
+menu a:hover{
+   color: white;
 }
