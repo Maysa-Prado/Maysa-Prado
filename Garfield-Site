@@ -13,7 +13,7 @@
 <body>
     <div>
         <h1>𐔌   .  ⋮ Garfield  .ᐟ  ֹ   ₊ ꒱‧ </h1>
-        <img src="banner.jpg.webp">
+        <img class="banner" src="banner.jpg.webp">
     </div>
     <p>Garfield é um gato laranja preguiçoso, sarcástico e guloso, famoso pelas suas tirinhas em quadrinhos criadas por Jim Davis. Ele é conhecido por sua paixão por lasanha, sua aversão a segundas-feiras e sua personalidade cínica. Garfield também se tornou um personagem de desenhos animados, filmes e jogos, expandindo sua popularidade. Apareceu pela primeira vez em 19 de junho de 1978, nas páginas da imprensa diária dos Estados Unidos da América. Garfield rapidamente se tornou um dos personagens mais populares do mundo das histórias em quadrinhos.</p>
     <p>ᯓᡣ𐭩 Suas características: </p>
@@ -22,7 +22,7 @@
         <li>Guloseima: A paixão por lasanha é uma das suas características mais marcantes.</li>
         <li>Ódio por segundas-feiras: Garfield tem uma aversão conhecida por segundas-feiras.</li>
     </ul>
-    <img class=".logo" src="bola.jpg"> 
+    <img class="logo" src="bola.jpg"> 
     <p>𖦹 ׂ 𓈒 🥞 ／ ⋆ ۪</p>
     <p>‧₊˚┊Garfield tornou-se um ícone da cultura popular, reconhecido por milhões de pessoas em todo o mundo. A sua personalidade e as suas aventuras continuam a ser apreciadas por fãs de todas as idades. </p>
     <br>
