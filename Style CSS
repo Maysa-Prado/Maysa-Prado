@@ -2,29 +2,35 @@ body {
     background-color: #e7b447;
 }
 p {
-    font-size: 30px;
-    background-color: #ce7a1a;
-    color: #bb8716;
+    font-size: 20px;
+    background-color: #ffbb6c;
+    color: #5a4a29;
 }
-img {
+img { 
     width: 350px;
 }
-.logo {
-    width: 50px
+.banner {
+    width: 100%;
 }
-menu{
+.logo {
+    width: 600px
+}
+
+.menu{
     list-style: none;
     display: flex;
     justify-content: space-between;
     background-color: lightcyan;
 }
+
 .menu a{
-   text-decoration: none;
-   text-decoration: ☐ black;
-   font-size: 25px;
-   font-weight: bold;
-   line-height: 45px;
+    text-decoration: none;
+    text-decoration: black;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 45px;
 }
-menu a:hover{
-   color: white;
+
+.menu a:hover{
+    color: white;
 }
